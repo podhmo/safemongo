@@ -9,9 +9,8 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"strings"
-
 	"sort"
+	"strings"
 
 	"golang.org/x/tools/go/ast/astutil"
 	"golang.org/x/tools/go/loader"
