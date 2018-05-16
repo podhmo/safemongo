@@ -1,0 +1,2 @@
+1. `mgo.Collection.Update(x, `interface{})` -> `mgo.Collection.UnsafeUpdate(x, `bson.M)`
+2. `mgo.Collection.UnsafeUpdate(x, `unset`)`
